@@ -1,0 +1,17 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.7",
+    "prettier": "^2.5.1",
+    "puppeteer": "^13.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "author": "",
+  "license": "ISC"
+}
